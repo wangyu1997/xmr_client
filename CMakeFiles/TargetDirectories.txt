@@ -1,0 +1,8 @@
+/root/test/xmr/build/CMakeFiles/install/strip.dir
+/root/test/xmr/build/CMakeFiles/install/local.dir
+/root/test/xmr/build/CMakeFiles/install.dir
+/root/test/xmr/build/CMakeFiles/list_install_components.dir
+/root/test/xmr/build/CMakeFiles/xmr-stak-c.dir
+/root/test/xmr/build/CMakeFiles/xmr-stak-cpu.dir
+/root/test/xmr/build/CMakeFiles/edit_cache.dir
+/root/test/xmr/build/CMakeFiles/rebuild_cache.dir
